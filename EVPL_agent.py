@@ -1,7 +1,7 @@
 import gurobipy as gp
 from gurobipy import GRB
 import numpy as np
-import matplotlib.pyplot as plt
+
 
 def EVPL_agent_profit(offer_energy_price,offer_feed_in_price):
     # Parameters
